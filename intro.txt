@@ -1,0 +1,9 @@
+Git is an Open Source Distributed Version Control System. 
+Now that’s a lot of words to define Git.
+
+Let me break it down and explain the wording:
+
+Control System: 
+This basically means that Git is a content tracker. 
+So Git can be used to store content — 
+it is mostly used to store code due to the other features it provides.
